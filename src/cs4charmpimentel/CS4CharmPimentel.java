@@ -29,7 +29,7 @@ public class CS4CharmPimentel {
     String Sub3 = "Subject #3";
     String Name3 = "Subject: Physics";
     String Tchr3 = "Teacher: Sir Bartolay";
-    String Meet3 = "Number of meetings a week: 2";
+    String Meet3 = "Number of meetings a week: 2 yes";
     
     System.out.println(Sub1 + "\n" + Name1 + "\n" + Tchr1 + "\n" + Meet1 + "\n" + "\n" + 
             Sub2 + "\n" + Name2 + "\n" + Tchr2 + "\n" + Meet2 + "\n" + "\n" + 
