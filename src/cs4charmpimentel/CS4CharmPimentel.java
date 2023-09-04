@@ -16,10 +16,25 @@ public class CS4CharmPimentel {
      */
     public static void main(String[] args) {
         // TODO code application logic here
-        String bio = "Subject 1";
-        String phys = "Subject 2";
-        String chem = "Subject 3";
-        System.out.println(bio + phys + chem);
-    }
+          String Sub1 = "Subject #1";
+    String Name1 = "Subject: Biology";
+    String Tchr1 = "Teacher: Ma'am Cheng";
+    String Meet1 = "Number of meetings a week: 2";
+
+    String Sub2 = "Subject #2";
+    String Name2 = "Subject: Chemistry";
+    String Tchr2 = "Teacher: Sir De Ocampo";
+    String Meet2 = "Number of meetings a week: 2";
+
+    String Sub3 = "Subject #3";
+    String Name3 = "Subject: Physics";
+    String Tchr3 = "Teacher: Sir Bartolay";
+    String Meet3 = "Number of meetings a week: 2";
+    
+    System.out.println(Sub1 + "\n" + Name1 + "\n" + Tchr1 + "\n" + Meet1 + "\n" + "\n" + 
+            Sub2 + "\n" + Name2 + "\n" + Tchr2 + "\n" + Meet2 + "\n" + "\n" + 
+            Sub3 + "\n" + Name3 + "\n" + Tchr3 + "\n" + Meet3);
+    
+  }
     
 }
